@@ -1,5 +1,5 @@
 .env
-venv/
+ai-image/
 .DS_Store
 lesson.ipynb
 requirements.txt
